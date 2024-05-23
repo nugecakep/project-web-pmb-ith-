@@ -5,7 +5,7 @@
   <div class="body">
     <table class="table table-bordered text-center ">
       <tr>
-        <th>Nama Lengkap</th>
+        <th>Nama Lengkap </th>
         <th>Nilai</th>
         <th>Jurusan 1</th>
         <th>Jurusan 2</th>
